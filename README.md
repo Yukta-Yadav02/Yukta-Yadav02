@@ -1,4 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Yukta Yadav
+
+🔧 Tech Stack
+
+React  
+
+Node.js  
+
+Express.js  
+
+MongoDB  
+
+Java  
+
+MySql
+
+DBMS
+
+🎯 About Me
+
+ ✨ A BCA student passionate about web development and the MERN stack, focused on building efficient and impactful projects , I enjoy solving problems and turning ideas into clean, usable interfaces.
+
+ 🌐 Connect with Me
+
+🔗 LinkedIn: linkedin.com/in/yukta-yadav02/
+
+💬 Let’s connect & create something amazing together!
 
 <!--
 **Yukta-Yadav02/Yukta-Yadav02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
