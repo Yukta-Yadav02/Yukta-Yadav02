@@ -2,22 +2,29 @@
 
 🔧 Tech Stack
 
-Html   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30px"/>
+Html  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30px"/>
 
 
-Css
+Css   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30px"/>
 
-Javascript
 
-React  
+Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px"/>
 
-MongoDB  
 
-Java  
+React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px"/>
 
-MySql
 
-DBMS
+MongoDB  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30px"/>
+
+
+Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px"/>
+
+
+MySql <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px"/>
+
+
+DBMS  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="DBMS" width="30px"/>
+
 
 🎯 About Me
 
