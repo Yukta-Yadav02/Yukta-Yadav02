@@ -23,7 +23,7 @@ Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-orig
 MySql <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px"/>
 
 
-DBMS  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="DBMS" width="30px"/>
+DBMS  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="DBMS" width="20px"/>
 
 
 🎯 About Me
