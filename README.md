@@ -32,9 +32,9 @@ DBMS  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="D
 
  🌐 Connect with Me
 
- 📂 Portfolio:https://portfolio-zeta-virid-ueg686bp3v.vercel.app
+ 📂 Portfolio: https://portfolio-zeta-virid-ueg686bp3v.vercel.app
 
-🔗 LinkedIn: linkedin.com/in/yukta-yadav02/
+🔗 LinkedIn: https://www.linkedin.com/in/yukta-yadav02/
 
 💬 Let’s connect & create something amazing together!
 
